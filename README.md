@@ -1,6 +1,6 @@
 # Centromere Prediction & Probe Design Pipeline
-**Species:** *Brassica rapa* (BrapaRo18V23) and *Sinapis alba* (S.alba_v1)  
-**Author:** Mahmoudi Lab  
+**Species:** *Sinapis alba* (S.alba_v1)  
+**Author:** Shima Mahmoudi 
 **Date:** June 2026  
 **Tools:** EDTA → CentIER → Probe Design (Primer3)
 
